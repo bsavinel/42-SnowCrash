@@ -1,0 +1,1 @@
+ln -sf /home/user/level08/token /var/tmp/truc
